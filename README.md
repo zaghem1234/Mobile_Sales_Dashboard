@@ -8,9 +8,11 @@ The project represents a complete data analytics workflow, from data extraction 
 
 Its core focus is on delivering real-world business insights, interactive visualizations, and AI-assisted report development for modern data-driven decision-making.
 
-## Dashboar Link on PBI Services
+## Dashboard Link on PBI Services
 
+[Link of Report](https://app.powerbi.com/view?r=eyJrIjoiOWQyYzc1OGMtYWFjNy00MWJhLTkwNmUtNzBlZWYxNGU5YjBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+---
 
 ## Project Highlights
 
