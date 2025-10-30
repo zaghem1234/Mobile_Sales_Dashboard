@@ -48,14 +48,15 @@ Published the final dashboard to Power BI Service, created embed links, and conf
 
 
 ## Tools & Technologies Used
-Category	Tools / Techniques
-Data Preparation	Power Query
-Data Modeling	Power BI Desktop
-Calculations	DAX (Data Analysis Expressions)
-Visualization	Power BI Visuals & Custom Charts
-Deployment	Power BI Service
-Data Sources	Real world structured datasets (Excel / CSV)
-Deliverables
+-Category	Tools / Techniques
+-Data Preparation	Power Query
+-Data Modeling	Power BI Desktop
+-Calculations	DAX (Data Analysis Expressions)
+-Visualization	Power BI Visuals & Custom Charts
+-Deployment	Power BI Service
+-Data Sources	Real world structured datasets (Excel / CSV)
+
+## Deliverables
 
 Power BI (.pbix) file with full data model and DAX measures
 
