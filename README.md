@@ -1,5 +1,5 @@
 # Mobile_Sales_Dashboard
-📊 Power BI Dashboard Project 2025 — End-to-End Business Intelligence Solution
+
 📝 Project Overview
 
 This repository contains my End-to-End Power BI Dashboard Project (2025) — developed to demonstrate advanced skills in data analysis, modeling, and visualization using Power Query, DAX, and Power BI Service.
