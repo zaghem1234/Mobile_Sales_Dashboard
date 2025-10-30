@@ -1,6 +1,6 @@
 # Mobile_Sales_Dashboard
 
-📝 Project Overview
+## Project Overview
 
 This repository contains my End-to-End Power BI Dashboard Project, It demonstrate advanced skills in data analysis, modeling, and visualization using Power Query, DAX, and Power BI Service.
 
@@ -8,12 +8,12 @@ The project represents a complete data analytics workflow, from data extraction 
 
 Its core focus is on delivering real-world business insights, interactive visualizations, and AI-assisted report development for modern data-driven decision-making.
 
-Project Highlights
+## Project Highlights
 
-Complete Dashboard Development
+** Complete Dashboard Development
 Designed and developed the dashboard from raw data to final visualization, ensuring clarity, interactivity, and professional presentation.
 
-Data Transformation Through Power Query
+** Data Transformation Through Power Query
 Cleaned and structured raw datasets by merging, shaping, and creating custom date tables, maintaining proper relationships between dimension and fact tables.
 
 Advanced DAX Formulas
