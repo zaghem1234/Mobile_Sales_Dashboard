@@ -40,7 +40,7 @@ Added slicers, drill-downs, and visual interactions to allow dynamic exploration
 
 Published the final dashboard to Power BI Service, created embed links, and configured access permissions for seamless collaboration.
 
-![Report](DataSource/Dashboard_image.png)
+![Report](DataSource/Dashboard_image1.png)
 
 ![Report](DataSource/MTD_image.png)
 
