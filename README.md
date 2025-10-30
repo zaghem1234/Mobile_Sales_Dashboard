@@ -48,9 +48,9 @@ Published the final dashboard to Power BI Service, created embed links, and conf
 
 
 ## Tools & Technologies Used
--Category	Tools / Techniques
--Data Preparation	Power Query
--Data Modeling	Power BI Desktop
+- Category	Tools / Techniques
+- Data Preparation	Power Query
+- Data Modeling	Power BI Desktop
 -Calculations	DAX (Data Analysis Expressions)
 -Visualization	Power BI Visuals & Custom Charts
 -Deployment	Power BI Service
