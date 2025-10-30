@@ -42,15 +42,15 @@ Published the final dashboard to Power BI Service, created embed links, and conf
 
 ## Key Insights & Learnings
 
--Accurate Data Modeling ensures consistent calculations and report reliability.
+- Accurate Data Modeling ensures consistent calculations and report reliability.
 
--Custom Date Tables are essential for efficient use of MTD, QTD, and YTD time intelligence.
+- Custom Date Tables are essential for efficient use of MTD, QTD, and YTD time intelligence.
 
--Interactive Design increases engagement and helps users explore insights independently.
+- Interactive Design increases engagement and helps users explore insights independently.
 
--DAX Mastery enables flexible, real-time analytical measures.
+- DAX Mastery enables flexible, real-time analytical measures.
 
--Power BI Service Deployment simplifies collaboration and presentation.
+- Power BI Service Deployment simplifies collaboration and presentation.
 
 
 ## Tools & Technologies Used
