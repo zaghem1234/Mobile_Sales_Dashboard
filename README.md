@@ -2,18 +2,18 @@
 
 📝 Project Overview
 
-This repository contains my End-to-End Power BI Dashboard Project (2025) — developed to demonstrate advanced skills in data analysis, modeling, and visualization using Power Query, DAX, and Power BI Service.
+This repository contains my End-to-End Power BI Dashboard Project, It demonstrate advanced skills in data analysis, modeling, and visualization using Power Query, DAX, and Power BI Service.
 
-The project represents a complete data analytics workflow — from data extraction and transformation to data modeling, DAX implementation, and dashboard design — built entirely in Microsoft Power BI.
+The project represents a complete data analytics workflow, from data extraction and transformation to data modeling, DAX implementation, and dashboard design, built entirely in Microsoft Power BI.
 
 Its core focus is on delivering real-world business insights, interactive visualizations, and AI-assisted report development for modern data-driven decision-making.
 
 🚀 Project Highlights
 
 🔹 Complete Dashboard Development
-Designed and developed the dashboard from raw data to final visualization — ensuring clarity, interactivity, and professional presentation.
+Designed and developed the dashboard from raw data to final visualization, ensuring clarity, interactivity, and professional presentation.
 
-🔹 Data Transformation with Power Query
+🔹 Data Transformation Through Power Query
 Cleaned and structured raw datasets by merging, shaping, and creating custom date tables, maintaining proper relationships between dimension and fact tables.
 
 🔹 Advanced DAX Formulas
@@ -43,7 +43,6 @@ DAX Mastery enables flexible, real-time analytical measures.
 
 Power BI Service Deployment simplifies collaboration and presentation.
 
-AI Tools like ChatGPT can accelerate analysis and documentation.
 
 🧩 Tools & Technologies Used
 Category	Tools / Techniques
@@ -52,8 +51,7 @@ Data Modeling	Power BI Desktop
 Calculations	DAX (Data Analysis Expressions)
 Visualization	Power BI Visuals & Custom Charts
 Deployment	Power BI Service
-AI Assistance	ChatGPT
-Data Sources	Real-world structured datasets (Excel / CSV)
+Data Sources	Real world structured datasets (Excel / CSV)
 📦 Deliverables
 
 Power BI (.pbix) file with full data model and DAX measures
@@ -80,28 +78,22 @@ Report Interactivity & Filters
 
 Power BI Service Publishing
 
-AI-assisted Reporting & Insight Generation
-
 🎓 Key Takeaway
 
-This project showcases how a complete Power BI workflow can transform raw data into actionable insights through structured processes, analytical thinking, and design-focused storytelling.
+This project showcases how a complete Power BI workflow can transform raw data into actionable insights through structured processes, analytical thinking, and design focused storytelling.
 
-By combining technical precision, aesthetic dashboard design, and AI integration, this project demonstrates modern Business Intelligence practices and industry-ready Power BI expertise.
+By combining technical precision and aesthetic dashboard design, this project demonstrates modern Business Intelligence practices and industry-ready Power BI expertise.
 
 👨‍💻 Author
 
 Developed by: Zaghem Abbas
-Year: 2025
-Category: Power BI / Data Analytics / Business Intelligence
 
 🪄 How to Use
 
 Clone or download this repository.
 
-Open the .pbix file in Power BI Desktop (2025 or later).
+Open the .pbix file in Power BI Desktop.
 
 Explore the data model and DAX measures.
 
 Interact with visuals and filters.
-
-(Optional) Publish to Power BI Service for sharing or embedding.
