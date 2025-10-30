@@ -11,41 +11,43 @@ Its core focus is on delivering real-world business insights, interactive visual
 ## Project Highlights
 
 **Complete Dashboard Development**
+
 Designed and developed the dashboard from raw data to final visualization, ensuring clarity, interactivity, and professional presentation.
 
 **Data Transformation Through Power Query**
 
 Cleaned and structured raw datasets by merging, shaping, and creating custom date tables, maintaining proper relationships between dimension and fact tables.
 
-- **Advanced DAX Formulas**
+**Advanced DAX Formulas**
+
 Implemented dynamic measures like MTD, QTD, YTD, and LY using key DAX functions such as CALCULATE, FILTER, and Time Intelligence formulas for accurate performance tracking.
 
-- **Professional Dashboard Design**
+**Professional Dashboard Design**
+
 Focused on user experience (UX) through consistent color themes, rounded visuals, shadows, icons, and responsive layouts for improved readability.
 
-Interactive Reporting
+**Interactive Reporting**
+
 Added slicers, drill-downs, and visual interactions to allow dynamic exploration by region, product, and time period.
 
-Publishing & Sharing
+**Publishing & Sharing**
+
 Published the final dashboard to Power BI Service, created embed links, and configured access permissions for seamless collaboration.
 
-AI Integration (ChatGPT)
-Used ChatGPT for generating DAX logic, analytical summaries, and workflow optimization.
+## Key Insights & Learnings
 
-Key Insights & Learnings
+-Accurate Data Modeling ensures consistent calculations and report reliability.
 
-Accurate Data Modeling ensures consistent calculations and report reliability.
+-Custom Date Tables are essential for efficient use of MTD, QTD, and YTD time intelligence.
 
-Custom Date Tables are essential for efficient use of MTD, QTD, and YTD time intelligence.
+-Interactive Design increases engagement and helps users explore insights independently.
 
-Interactive Design increases engagement and helps users explore insights independently.
+-DAX Mastery enables flexible, real-time analytical measures.
 
-DAX Mastery enables flexible, real-time analytical measures.
-
-Power BI Service Deployment simplifies collaboration and presentation.
+-Power BI Service Deployment simplifies collaboration and presentation.
 
 
-Tools & Technologies Used
+## Tools & Technologies Used
 Category	Tools / Techniques
 Data Preparation	Power Query
 Data Modeling	Power BI Desktop
