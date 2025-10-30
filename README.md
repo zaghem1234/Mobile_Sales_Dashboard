@@ -42,6 +42,10 @@ Published the final dashboard to Power BI Service, created embed links, and conf
 
 ![Report](DataSource/Dashboard_image.png)
 
+![Report](DataSource/MTD_image.png)
+
+![Report](DataSource/Same_Period_Lastyear_image.png)
+
 
 ## Key Insights & Learnings
 
