@@ -51,48 +51,48 @@ Published the final dashboard to Power BI Service, created embed links, and conf
 - Category	Tools / Techniques
 - Data Preparation	Power Query
 - Data Modeling	Power BI Desktop
--Calculations	DAX (Data Analysis Expressions)
--Visualization	Power BI Visuals & Custom Charts
--Deployment	Power BI Service
--Data Sources	Real world structured datasets (Excel / CSV)
+- Calculations	DAX (Data Analysis Expressions)
+- Visualization	Power BI Visuals & Custom Charts
+- Deployment	Power BI Service
+- Data Sources	Real world structured datasets (Excel / CSV)
 
 ## Deliverables
 
-Power BI (.pbix) file with full data model and DAX measures
+- Power BI (.pbix) file with full data model and DAX measures
 
-Interactive visuals (maps, KPIs, charts, and cards)
+- Interactive visuals (maps, KPIs, charts, and cards)
 
-Custom calendar table for time-based analytics
+- Custom calendar table for time-based analytics
 
-Optimized data model for efficient performance
+- Optimized data model for efficient performance
 
-Published Power BI Service dashboard link for live interaction
+- Published Power BI Service dashboard link for live interaction
 
-Skills Demonstrated
+## Skills Demonstrated
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Data Modeling & Relationship Management
+- Data Modeling & Relationship Management
 
-DAX Time Intelligence & Calculations
+- DAX Time Intelligence & Calculations
 
-Dashboard Design & User Experience
+- Dashboard Design & User Experience
 
-Report Interactivity & Filters
+- Report Interactivity & Filters
 
-Power BI Service Publishing
+- Power BI Service Publishing
 
-Key Takeaway
+## Key Takeaway
 
 This project showcases how a complete Power BI workflow can transform raw data into actionable insights through structured processes, analytical thinking, and design focused storytelling.
 
 By combining technical precision and aesthetic dashboard design, this project demonstrates modern Business Intelligence practices and industry-ready Power BI expertise.
 
-Author
+## Author
 
 Developed by: Zaghem Abbas
 
-How to Use
+## How to Use
 
 Clone or download this repository.
 
