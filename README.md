@@ -10,16 +10,16 @@ Its core focus is on delivering real-world business insights, interactive visual
 
 ## Project Highlights
 
- Complete Dashboard Development
+- **Complete Dashboard Development**
 Designed and developed the dashboard from raw data to final visualization, ensuring clarity, interactivity, and professional presentation.
 
-*Data Transformation Through Power Query
+- **Data Transformation Through Power Query**
 Cleaned and structured raw datasets by merging, shaping, and creating custom date tables, maintaining proper relationships between dimension and fact tables.
 
-Advanced DAX Formulas
+- **Advanced DAX Formulas**
 Implemented dynamic measures like MTD, QTD, YTD, and LY using key DAX functions such as CALCULATE, FILTER, and Time Intelligence formulas for accurate performance tracking.
 
-Professional Dashboard Design
+- **Professional Dashboard Design**
 Focused on user experience (UX) through consistent color themes, rounded visuals, shadows, icons, and responsive layouts for improved readability.
 
 Interactive Reporting
